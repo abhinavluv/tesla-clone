@@ -33,6 +33,26 @@ const Home = () => {
                 leftButtonText='Custom Order'
                 rightButtonText='Existing Inventory'
             />
+            <Section
+                title='Lowest Cost Solar Panels in America'
+                description='Money-back Guarantee'
+                backgroundImage='solar-panel.jpg'
+                leftButtonText='Order Now'
+                rightButtonText='Learn More'
+            />
+            <Section
+                title='Solar for New Roofs'
+                description='Solar Roofs cost less than a new roof plus Solar Panels'
+                backgroundImage='solar-roof.jpg'
+                leftButtonText='Order Now'
+                rightButtonText='Learn More'
+            />
+            <Section
+                title='Accessories'
+                description=''
+                backgroundImage='accessories.jpg'
+                leftButtonText='Shop Now'
+            />
         </Container>
     );
 };
