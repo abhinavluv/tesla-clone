@@ -11,6 +11,10 @@ body {
     overflow-x: hidden;
 }
 
+a {
+    text-decoration: none;
+}
+
 ::selection {
     background: #393c41;
     color: white;

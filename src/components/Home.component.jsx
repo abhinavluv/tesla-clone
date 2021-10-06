@@ -11,6 +11,7 @@ const Home = () => {
                 backgroundImage='model-s.jpg'
                 leftButtonText='Custom Order'
                 rightButtonText='Existing Inventory'
+                downArrow='true'
             />
             <Section
                 title='Model Y'
@@ -18,6 +19,7 @@ const Home = () => {
                 backgroundImage='model-y.jpg'
                 leftButtonText='Custom Order'
                 rightButtonText='Existing Inventory'
+                downArrow='true'
             />
             <Section
                 title='Model 3'
@@ -25,6 +27,7 @@ const Home = () => {
                 backgroundImage='model-3.jpg'
                 leftButtonText='Custom Order'
                 rightButtonText='Existing Inventory'
+                downArrow='true'
             />
             <Section
                 title='Model X'
@@ -32,6 +35,7 @@ const Home = () => {
                 backgroundImage='model-x.jpg'
                 leftButtonText='Custom Order'
                 rightButtonText='Existing Inventory'
+                downArrow='true'
             />
             <Section
                 title='Lowest Cost Solar Panels in America'
@@ -39,6 +43,7 @@ const Home = () => {
                 backgroundImage='solar-panel.jpg'
                 leftButtonText='Order Now'
                 rightButtonText='Learn More'
+                downArrow='true'
             />
             <Section
                 title='Solar for New Roofs'
@@ -46,6 +51,7 @@ const Home = () => {
                 backgroundImage='solar-roof.jpg'
                 leftButtonText='Order Now'
                 rightButtonText='Learn More'
+                downArrow='true'
             />
             <Section
                 title='Accessories'
